@@ -1,2 +1,3 @@
 # Scripts
-# Collection of small scripts
+
+Collection of small scripts
